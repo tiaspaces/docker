@@ -23,7 +23,7 @@ Docker is a platform for developing, shipping, and running applications in conta
 
 
 3. **Verify Installation**:
-   - Open a terminal (Command Prompt or PowerShell on Windows, Terminal on macOS or Linux) and run:
+   - Launch tiaspaces and run:
      ```bash
      docker --version
      ```
