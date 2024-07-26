@@ -1,8 +1,3 @@
-# docker
-Developing Hands-On Skills on Docker
-
-
-
 # Docker Hands-On Walkthrough
 
 ## Introduction
