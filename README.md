@@ -22,22 +22,13 @@ Docker is a platform for developing, shipping, and running applications in conta
 ### Browse to labs.tiaspaces.com
 
 
-3. **Verify Installation**:
-   - Launch tiaspaces and run:
+2. **Launch TiaSpaces**:
+   - click on terminal and run the following:
      ```bash
      docker --version
      ```
    - You should see the Docker version information.
 
-### Install Visual Studio Code (TiaSpaces)
-
-1. **Download TiaSpaces**:
-   - Go to [Visual Studio Code](https://code.visualstudio.com/) and download the installer for your operating system.
-
-2. **Install TiaSpaces**:
-   - Run the installer and follow the on-screen instructions.
-
----
 
 ## Step 2: Create a Dockerfile
 
